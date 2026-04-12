@@ -1,15 +1,10 @@
 #!/bin/bash
 
 # OPS102 Bonus Lab - Software Testing Script
-# Author: Your Name
-# Seneca Username: gsranu2
-#
-# Sources / references:
-# - OPS102 Bonus Lab instructions
 # - IPC144 Lab 6 source files used for testing
 # - GenAI used: ChatGPT
 # - Prompt used:
-#   "Tell me what to do from 0 for the OPS102 bonus lab software testing script."
+#   Help me with guidance for building and understanding how to create a Bash script to test my C program using input and expected output files.
 
 PROGRAM="program"
 PASS_COUNT=0
