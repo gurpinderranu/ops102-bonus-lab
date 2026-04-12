@@ -1,0 +1,19 @@
+IPC Currency Exchange Machine
+=============================
+1) exchange from USD to CAD
+2) exchange from CAD to United States Dollar
+Your choice (1 or 2): That was not a valid option
+1) exchange from USD to CAD
+2) exchange from CAD to United States Dollar
+Your choice (1 or 2): Enter Amount: Converting United States Dollar to Canadian Dollars
+25.00 USD is 34.00 CAD
+* 0 hundreds
+* 0 fifties
+* 1 twenties
+* 1 tens
+* 0 fives
+* 2 toonies
+* 0 loonies
+* 0 quarters
+* 0 dimes
+* 0 nickels
